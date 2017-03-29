@@ -8605,10 +8605,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj",
+      "projectUniqueName": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj",
       "projectName": "KTour.Agency.DataAccess.EF",
-      "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj",
-      "outputPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.DataAccess.EF\\obj\\",
+      "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj",
+      "outputPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8616,8 +8616,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
-              "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
+            "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
+              "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
             }
           }
         }

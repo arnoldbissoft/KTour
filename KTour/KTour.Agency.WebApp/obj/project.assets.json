@@ -10774,10 +10774,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.WebApp\\KTour.Agency.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.WebApp\\KTour.Agency.WebApp.csproj",
       "projectName": "KTour.Agency.WebApp",
-      "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.WebApp\\KTour.Agency.WebApp.csproj",
-      "outputPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.WebApp\\obj\\",
+      "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.WebApp\\KTour.Agency.WebApp.csproj",
+      "outputPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

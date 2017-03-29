@@ -8880,10 +8880,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.ConsoleApp\\KTour.Agency.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.ConsoleApp\\KTour.Agency.ConsoleApp.csproj",
       "projectName": "KTour.Agency.ConsoleApp",
-      "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.ConsoleApp\\KTour.Agency.ConsoleApp.csproj",
-      "outputPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.ConsoleApp\\KTour.Agency.ConsoleApp.csproj",
+      "outputPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8891,20 +8891,20 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
-              "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
+            "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
+              "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
             },
-            "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj": {
-              "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj"
+            "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj": {
+              "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj"
             },
-            "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj": {
-              "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj"
+            "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj"
             },
-            "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj": {
-              "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj"
+            "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj": {
+              "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj"
             },
-            "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj": {
-              "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj"
+            "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj"
             }
           }
         }

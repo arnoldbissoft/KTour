@@ -8270,10 +8270,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj",
       "projectName": "KTour.Agency.Api",
-      "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj",
-      "outputPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Api\\obj\\",
+      "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj",
+      "outputPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Api\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8281,11 +8281,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
-              "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
+            "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
+              "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
             },
-            "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj": {
-              "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj"
+            "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj"
             }
           }
         }

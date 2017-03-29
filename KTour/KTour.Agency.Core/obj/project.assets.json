@@ -8244,10 +8244,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj",
       "projectName": "KTour.Agency.Core",
-      "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj",
-      "outputPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Core\\obj\\",
+      "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj",
+      "outputPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Core\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

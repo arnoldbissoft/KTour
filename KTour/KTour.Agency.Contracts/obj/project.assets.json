@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj",
       "projectName": "KTour.Agency.Contracts",
-      "projectPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj",
-      "outputPath": "C:\\Mgmt\\Apps\\KTour\\KTour.Agency.Contracts\\obj\\",
+      "projectPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj",
+      "outputPath": "C:\\Users\\Arnold\\Documents\\GitHub\\KTour\\KTour\\KTour.Agency.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
