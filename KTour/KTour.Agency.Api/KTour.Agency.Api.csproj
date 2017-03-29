@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KTour.Agency.Contracts\KTour.Agency.Contracts.csproj" />
+    <ProjectReference Include="..\KTour.Agency.Core\KTour.Agency.Core.csproj" />
+  </ItemGroup>
+
+</Project>

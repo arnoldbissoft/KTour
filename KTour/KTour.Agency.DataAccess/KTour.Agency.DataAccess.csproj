@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KTour.Agency.Contracts\KTour.Agency.Contracts.csproj" />
+    <ProjectReference Include="..\KTour.Agency.Core\KTour.Agency.Core.csproj" />
+    <ProjectReference Include="..\KTour.Agency.DataAccess.EF\KTour.Agency.DataAccess.EF.csproj" />
+  </ItemGroup>
+
+</Project>

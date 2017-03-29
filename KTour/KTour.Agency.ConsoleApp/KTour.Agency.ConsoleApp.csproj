@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="1.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KTour.Agency.Api\KTour.Agency.Api.csproj" />
+    <ProjectReference Include="..\KTour.Agency.Contracts\KTour.Agency.Contracts.csproj" />
+    <ProjectReference Include="..\KTour.Agency.Core\KTour.Agency.Core.csproj" />
+    <ProjectReference Include="..\KTour.Agency.DataAccess.EF\KTour.Agency.DataAccess.EF.csproj" />
+    <ProjectReference Include="..\KTour.Agency.DataAccess\KTour.Agency.DataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
