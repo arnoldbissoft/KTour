@@ -1,0 +1,425 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.ConsoleApp\\KTour.Agency.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj",
+        "projectName": "KTour.Agency.Api",
+        "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj",
+        "packagesPath": "C:\\Users\\Arnold\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arnold\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj"
+              },
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.ConsoleApp\\KTour.Agency.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.ConsoleApp\\KTour.Agency.ConsoleApp.csproj",
+        "projectName": "KTour.Agency.ConsoleApp",
+        "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.ConsoleApp\\KTour.Agency.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Arnold\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arnold\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Api\\KTour.Agency.Api.csproj"
+              },
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj"
+              },
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
+              },
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj"
+              },
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj",
+        "projectName": "KTour.Agency.Contracts",
+        "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Arnold\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arnold\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj",
+        "projectName": "KTour.Agency.Core",
+        "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj",
+        "packagesPath": "C:\\Users\\Arnold\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arnold\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.DotNet.InternalAbstractions": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj",
+        "projectName": "KTour.Agency.DataAccess.EF",
+        "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj",
+        "packagesPath": "C:\\Users\\Arnold\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arnold\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj",
+        "projectName": "KTour.Agency.DataAccess",
+        "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess\\KTour.Agency.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Arnold\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arnold\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Contracts\\KTour.Agency.Contracts.csproj"
+              },
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.Core\\KTour.Agency.Core.csproj"
+              },
+              "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj": {
+                "projectPath": "C:\\Users\\Arnold\\Source\\Repos\\arnoldbissoft\\KTour\\KTour\\KTour.Agency.DataAccess.EF\\KTour.Agency.DataAccess.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

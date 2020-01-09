@@ -76,3 +76,8 @@ Thumbs.db
 [Tt]est[Rr]esults/
 _UpgradeReport_Files/
 _ReSharper.*/
+/KTour/.vs/KTour/v16/Server/sqlite3/storage.ide-wal
+/KTour/.vs/KTour/v16/Server/sqlite3/storage.ide-shm
+/KTour/.vs/KTour/v16/Server/sqlite3/storage.ide
+/KTour/.vs/KTour/v16/Server/sqlite3/db.lock
+/KTour/.vs/KTour/v16/Server/sqlite3
